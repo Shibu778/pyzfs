@@ -106,6 +106,9 @@ def main():
         from .common.wfc.qeh5loader import QEHDF5WavefunctionLoader
         prefix = kwargs.pop("prefix", "pwscf")
         wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+    elif wfcfmt == "vasp":
+        from .common.wfc.vasploader import VaspWavefunctionLoader
+        wfcloader = VaspWavefunctionLoader()
     else:
         raise ValueError("Unsupported wfcfmt: {}".format(wfcfmt))
 

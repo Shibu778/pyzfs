@@ -1,0 +1,960 @@
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs_dev/bin/pyzfs", line 33, in <module>
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/run.py", line 108, in main
+    wfcloader = QEHDF5WavefunctionLoader(fftgrid=fftgrid, prefix=prefix)
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 38, in __init__
+    super(QEHDF5WavefunctionLoader, self).__init__()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    self.scan()
+  File "/localscratch/shibuM/ZFS_calc/pyzfs/pyzfs/common/wfc/qeh5loader.py", line 45, in scan
+    pwxml = etree.parse("{}/{}.xml".format(self.root, self.prefix))
+  File "src/lxml/etree.pyx", line 3541, in lxml.etree.parse
+  File "src/lxml/parser.pxi", line 1879, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1905, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1808, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+  File "src/lxml/parser.pxi", line 1180, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 618, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 728, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 655, in lxml.etree._raiseParseError
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"
+OSError: Error reading file './pwscf.xml': failed to load external entity "./pwscf.xml"

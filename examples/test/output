@@ -1,0 +1,582 @@
+
+VaspWavefunctionLoader: scanning current working directory "/home/thsim21/Shibu/Project/code_development/ext_lib/pyzfs/examples/test"...
+
+   nuwfcs = 191, ndwfcs = 189, nwfcs = 380
+     spin = up     band = 1     file = WAVECAR
+     spin = up     band = 2     file = WAVECAR
+     spin = up     band = 3     file = WAVECAR
+     spin = up     band = 4     file = WAVECAR
+     spin = up     band = 5     file = WAVECAR
+     spin = up     band = 6     file = WAVECAR
+     spin = up     band = 7     file = WAVECAR
+     spin = up     band = 8     file = WAVECAR
+     spin = up     band = 9     file = WAVECAR
+     spin = up     band = 10     file = WAVECAR
+     spin = up     band = 11     file = WAVECAR
+     spin = up     band = 12     file = WAVECAR
+     spin = up     band = 13     file = WAVECAR
+     spin = up     band = 14     file = WAVECAR
+     spin = up     band = 15     file = WAVECAR
+     spin = up     band = 16     file = WAVECAR
+     spin = up     band = 17     file = WAVECAR
+     spin = up     band = 18     file = WAVECAR
+     spin = up     band = 19     file = WAVECAR
+     spin = up     band = 20     file = WAVECAR
+     spin = up     band = 21     file = WAVECAR
+     spin = up     band = 22     file = WAVECAR
+     spin = up     band = 23     file = WAVECAR
+     spin = up     band = 24     file = WAVECAR
+     spin = up     band = 25     file = WAVECAR
+     spin = up     band = 26     file = WAVECAR
+     spin = up     band = 27     file = WAVECAR
+     spin = up     band = 28     file = WAVECAR
+     spin = up     band = 29     file = WAVECAR
+     spin = up     band = 30     file = WAVECAR
+     spin = up     band = 31     file = WAVECAR
+     spin = up     band = 32     file = WAVECAR
+     spin = up     band = 33     file = WAVECAR
+     spin = up     band = 34     file = WAVECAR
+     spin = up     band = 35     file = WAVECAR
+     spin = up     band = 36     file = WAVECAR
+     spin = up     band = 37     file = WAVECAR
+     spin = up     band = 38     file = WAVECAR
+     spin = up     band = 39     file = WAVECAR
+     spin = up     band = 40     file = WAVECAR
+     spin = up     band = 41     file = WAVECAR
+     spin = up     band = 42     file = WAVECAR
+     spin = up     band = 43     file = WAVECAR
+     spin = up     band = 44     file = WAVECAR
+     spin = up     band = 45     file = WAVECAR
+     spin = up     band = 46     file = WAVECAR
+     spin = up     band = 47     file = WAVECAR
+     spin = up     band = 48     file = WAVECAR
+     spin = up     band = 49     file = WAVECAR
+     spin = up     band = 50     file = WAVECAR
+     spin = up     band = 51     file = WAVECAR
+     spin = up     band = 52     file = WAVECAR
+     spin = up     band = 53     file = WAVECAR
+     spin = up     band = 54     file = WAVECAR
+     spin = up     band = 55     file = WAVECAR
+     spin = up     band = 56     file = WAVECAR
+     spin = up     band = 57     file = WAVECAR
+     spin = up     band = 58     file = WAVECAR
+     spin = up     band = 59     file = WAVECAR
+     spin = up     band = 60     file = WAVECAR
+     spin = up     band = 61     file = WAVECAR
+     spin = up     band = 62     file = WAVECAR
+     spin = up     band = 63     file = WAVECAR
+     spin = up     band = 64     file = WAVECAR
+     spin = up     band = 65     file = WAVECAR
+     spin = up     band = 66     file = WAVECAR
+     spin = up     band = 67     file = WAVECAR
+     spin = up     band = 68     file = WAVECAR
+     spin = up     band = 69     file = WAVECAR
+     spin = up     band = 70     file = WAVECAR
+     spin = up     band = 71     file = WAVECAR
+     spin = up     band = 72     file = WAVECAR
+     spin = up     band = 73     file = WAVECAR
+     spin = up     band = 74     file = WAVECAR
+     spin = up     band = 75     file = WAVECAR
+     spin = up     band = 76     file = WAVECAR
+     spin = up     band = 77     file = WAVECAR
+     spin = up     band = 78     file = WAVECAR
+     spin = up     band = 79     file = WAVECAR
+     spin = up     band = 80     file = WAVECAR
+     spin = up     band = 81     file = WAVECAR
+     spin = up     band = 82     file = WAVECAR
+     spin = up     band = 83     file = WAVECAR
+     spin = up     band = 84     file = WAVECAR
+     spin = up     band = 85     file = WAVECAR
+     spin = up     band = 86     file = WAVECAR
+     spin = up     band = 87     file = WAVECAR
+     spin = up     band = 88     file = WAVECAR
+     spin = up     band = 89     file = WAVECAR
+     spin = up     band = 90     file = WAVECAR
+     spin = up     band = 91     file = WAVECAR
+     spin = up     band = 92     file = WAVECAR
+     spin = up     band = 93     file = WAVECAR
+     spin = up     band = 94     file = WAVECAR
+     spin = up     band = 95     file = WAVECAR
+     spin = up     band = 96     file = WAVECAR
+     spin = up     band = 97     file = WAVECAR
+     spin = up     band = 98     file = WAVECAR
+     spin = up     band = 99     file = WAVECAR
+     spin = up     band = 100     file = WAVECAR
+     spin = up     band = 101     file = WAVECAR
+     spin = up     band = 102     file = WAVECAR
+     spin = up     band = 103     file = WAVECAR
+     spin = up     band = 104     file = WAVECAR
+     spin = up     band = 105     file = WAVECAR
+     spin = up     band = 106     file = WAVECAR
+     spin = up     band = 107     file = WAVECAR
+     spin = up     band = 108     file = WAVECAR
+     spin = up     band = 109     file = WAVECAR
+     spin = up     band = 110     file = WAVECAR
+     spin = up     band = 111     file = WAVECAR
+     spin = up     band = 112     file = WAVECAR
+     spin = up     band = 113     file = WAVECAR
+     spin = up     band = 114     file = WAVECAR
+     spin = up     band = 115     file = WAVECAR
+     spin = up     band = 116     file = WAVECAR
+     spin = up     band = 117     file = WAVECAR
+     spin = up     band = 118     file = WAVECAR
+     spin = up     band = 119     file = WAVECAR
+     spin = up     band = 120     file = WAVECAR
+     spin = up     band = 121     file = WAVECAR
+     spin = up     band = 122     file = WAVECAR
+     spin = up     band = 123     file = WAVECAR
+     spin = up     band = 124     file = WAVECAR
+     spin = up     band = 125     file = WAVECAR
+     spin = up     band = 126     file = WAVECAR
+     spin = up     band = 127     file = WAVECAR
+     spin = up     band = 128     file = WAVECAR
+     spin = up     band = 129     file = WAVECAR
+     spin = up     band = 130     file = WAVECAR
+     spin = up     band = 131     file = WAVECAR
+     spin = up     band = 132     file = WAVECAR
+     spin = up     band = 133     file = WAVECAR
+     spin = up     band = 134     file = WAVECAR
+     spin = up     band = 135     file = WAVECAR
+     spin = up     band = 136     file = WAVECAR
+     spin = up     band = 137     file = WAVECAR
+     spin = up     band = 138     file = WAVECAR
+     spin = up     band = 139     file = WAVECAR
+     spin = up     band = 140     file = WAVECAR
+     spin = up     band = 141     file = WAVECAR
+     spin = up     band = 142     file = WAVECAR
+     spin = up     band = 143     file = WAVECAR
+     spin = up     band = 144     file = WAVECAR
+     spin = up     band = 145     file = WAVECAR
+     spin = up     band = 146     file = WAVECAR
+     spin = up     band = 147     file = WAVECAR
+     spin = up     band = 148     file = WAVECAR
+     spin = up     band = 149     file = WAVECAR
+     spin = up     band = 150     file = WAVECAR
+     spin = up     band = 151     file = WAVECAR
+     spin = up     band = 152     file = WAVECAR
+     spin = up     band = 153     file = WAVECAR
+     spin = up     band = 154     file = WAVECAR
+     spin = up     band = 155     file = WAVECAR
+     spin = up     band = 156     file = WAVECAR
+     spin = up     band = 157     file = WAVECAR
+     spin = up     band = 158     file = WAVECAR
+     spin = up     band = 159     file = WAVECAR
+     spin = up     band = 160     file = WAVECAR
+     spin = up     band = 161     file = WAVECAR
+     spin = up     band = 162     file = WAVECAR
+     spin = up     band = 163     file = WAVECAR
+     spin = up     band = 164     file = WAVECAR
+     spin = up     band = 165     file = WAVECAR
+     spin = up     band = 166     file = WAVECAR
+     spin = up     band = 167     file = WAVECAR
+     spin = up     band = 168     file = WAVECAR
+     spin = up     band = 169     file = WAVECAR
+     spin = up     band = 170     file = WAVECAR
+     spin = up     band = 171     file = WAVECAR
+     spin = up     band = 172     file = WAVECAR
+     spin = up     band = 173     file = WAVECAR
+     spin = up     band = 174     file = WAVECAR
+     spin = up     band = 175     file = WAVECAR
+     spin = up     band = 176     file = WAVECAR
+     spin = up     band = 177     file = WAVECAR
+     spin = up     band = 178     file = WAVECAR
+     spin = up     band = 179     file = WAVECAR
+     spin = up     band = 180     file = WAVECAR
+     spin = up     band = 181     file = WAVECAR
+     spin = up     band = 182     file = WAVECAR
+     spin = up     band = 183     file = WAVECAR
+     spin = up     band = 184     file = WAVECAR
+     spin = up     band = 185     file = WAVECAR
+     spin = up     band = 186     file = WAVECAR
+     spin = up     band = 187     file = WAVECAR
+     spin = up     band = 188     file = WAVECAR
+     spin = up     band = 189     file = WAVECAR
+     spin = up     band = 190     file = WAVECAR
+     spin = up     band = 191     file = WAVECAR
+     spin = down     band = 1     file = WAVECAR
+     spin = down     band = 2     file = WAVECAR
+     spin = down     band = 3     file = WAVECAR
+     spin = down     band = 4     file = WAVECAR
+     spin = down     band = 5     file = WAVECAR
+     spin = down     band = 6     file = WAVECAR
+     spin = down     band = 7     file = WAVECAR
+     spin = down     band = 8     file = WAVECAR
+     spin = down     band = 9     file = WAVECAR
+     spin = down     band = 10     file = WAVECAR
+     spin = down     band = 11     file = WAVECAR
+     spin = down     band = 12     file = WAVECAR
+     spin = down     band = 13     file = WAVECAR
+     spin = down     band = 14     file = WAVECAR
+     spin = down     band = 15     file = WAVECAR
+     spin = down     band = 16     file = WAVECAR
+     spin = down     band = 17     file = WAVECAR
+     spin = down     band = 18     file = WAVECAR
+     spin = down     band = 19     file = WAVECAR
+     spin = down     band = 20     file = WAVECAR
+     spin = down     band = 21     file = WAVECAR
+     spin = down     band = 22     file = WAVECAR
+     spin = down     band = 23     file = WAVECAR
+     spin = down     band = 24     file = WAVECAR
+     spin = down     band = 25     file = WAVECAR
+     spin = down     band = 26     file = WAVECAR
+     spin = down     band = 27     file = WAVECAR
+     spin = down     band = 28     file = WAVECAR
+     spin = down     band = 29     file = WAVECAR
+     spin = down     band = 30     file = WAVECAR
+     spin = down     band = 31     file = WAVECAR
+     spin = down     band = 32     file = WAVECAR
+     spin = down     band = 33     file = WAVECAR
+     spin = down     band = 34     file = WAVECAR
+     spin = down     band = 35     file = WAVECAR
+     spin = down     band = 36     file = WAVECAR
+     spin = down     band = 37     file = WAVECAR
+     spin = down     band = 38     file = WAVECAR
+     spin = down     band = 39     file = WAVECAR
+     spin = down     band = 40     file = WAVECAR
+     spin = down     band = 41     file = WAVECAR
+     spin = down     band = 42     file = WAVECAR
+     spin = down     band = 43     file = WAVECAR
+     spin = down     band = 44     file = WAVECAR
+     spin = down     band = 45     file = WAVECAR
+     spin = down     band = 46     file = WAVECAR
+     spin = down     band = 47     file = WAVECAR
+     spin = down     band = 48     file = WAVECAR
+     spin = down     band = 49     file = WAVECAR
+     spin = down     band = 50     file = WAVECAR
+     spin = down     band = 51     file = WAVECAR
+     spin = down     band = 52     file = WAVECAR
+     spin = down     band = 53     file = WAVECAR
+     spin = down     band = 54     file = WAVECAR
+     spin = down     band = 55     file = WAVECAR
+     spin = down     band = 56     file = WAVECAR
+     spin = down     band = 57     file = WAVECAR
+     spin = down     band = 58     file = WAVECAR
+     spin = down     band = 59     file = WAVECAR
+     spin = down     band = 60     file = WAVECAR
+     spin = down     band = 61     file = WAVECAR
+     spin = down     band = 62     file = WAVECAR
+     spin = down     band = 63     file = WAVECAR
+     spin = down     band = 64     file = WAVECAR
+     spin = down     band = 65     file = WAVECAR
+     spin = down     band = 66     file = WAVECAR
+     spin = down     band = 67     file = WAVECAR
+     spin = down     band = 68     file = WAVECAR
+     spin = down     band = 69     file = WAVECAR
+     spin = down     band = 70     file = WAVECAR
+     spin = down     band = 71     file = WAVECAR
+     spin = down     band = 72     file = WAVECAR
+     spin = down     band = 73     file = WAVECAR
+     spin = down     band = 74     file = WAVECAR
+     spin = down     band = 75     file = WAVECAR
+     spin = down     band = 76     file = WAVECAR
+     spin = down     band = 77     file = WAVECAR
+     spin = down     band = 78     file = WAVECAR
+     spin = down     band = 79     file = WAVECAR
+     spin = down     band = 80     file = WAVECAR
+     spin = down     band = 81     file = WAVECAR
+     spin = down     band = 82     file = WAVECAR
+     spin = down     band = 83     file = WAVECAR
+     spin = down     band = 84     file = WAVECAR
+     spin = down     band = 85     file = WAVECAR
+     spin = down     band = 86     file = WAVECAR
+     spin = down     band = 87     file = WAVECAR
+     spin = down     band = 88     file = WAVECAR
+     spin = down     band = 89     file = WAVECAR
+     spin = down     band = 90     file = WAVECAR
+     spin = down     band = 91     file = WAVECAR
+     spin = down     band = 92     file = WAVECAR
+     spin = down     band = 93     file = WAVECAR
+     spin = down     band = 94     file = WAVECAR
+     spin = down     band = 95     file = WAVECAR
+     spin = down     band = 96     file = WAVECAR
+     spin = down     band = 97     file = WAVECAR
+     spin = down     band = 98     file = WAVECAR
+     spin = down     band = 99     file = WAVECAR
+     spin = down     band = 100     file = WAVECAR
+     spin = down     band = 101     file = WAVECAR
+     spin = down     band = 102     file = WAVECAR
+     spin = down     band = 103     file = WAVECAR
+     spin = down     band = 104     file = WAVECAR
+     spin = down     band = 105     file = WAVECAR
+     spin = down     band = 106     file = WAVECAR
+     spin = down     band = 107     file = WAVECAR
+     spin = down     band = 108     file = WAVECAR
+     spin = down     band = 109     file = WAVECAR
+     spin = down     band = 110     file = WAVECAR
+     spin = down     band = 111     file = WAVECAR
+     spin = down     band = 112     file = WAVECAR
+     spin = down     band = 113     file = WAVECAR
+     spin = down     band = 114     file = WAVECAR
+     spin = down     band = 115     file = WAVECAR
+     spin = down     band = 116     file = WAVECAR
+     spin = down     band = 117     file = WAVECAR
+     spin = down     band = 118     file = WAVECAR
+     spin = down     band = 119     file = WAVECAR
+     spin = down     band = 120     file = WAVECAR
+     spin = down     band = 121     file = WAVECAR
+     spin = down     band = 122     file = WAVECAR
+     spin = down     band = 123     file = WAVECAR
+     spin = down     band = 124     file = WAVECAR
+     spin = down     band = 125     file = WAVECAR
+     spin = down     band = 126     file = WAVECAR
+     spin = down     band = 127     file = WAVECAR
+     spin = down     band = 128     file = WAVECAR
+     spin = down     band = 129     file = WAVECAR
+     spin = down     band = 130     file = WAVECAR
+     spin = down     band = 131     file = WAVECAR
+     spin = down     band = 132     file = WAVECAR
+     spin = down     band = 133     file = WAVECAR
+     spin = down     band = 134     file = WAVECAR
+     spin = down     band = 135     file = WAVECAR
+     spin = down     band = 136     file = WAVECAR
+     spin = down     band = 137     file = WAVECAR
+     spin = down     band = 138     file = WAVECAR
+     spin = down     band = 139     file = WAVECAR
+     spin = down     band = 140     file = WAVECAR
+     spin = down     band = 141     file = WAVECAR
+     spin = down     band = 142     file = WAVECAR
+     spin = down     band = 143     file = WAVECAR
+     spin = down     band = 144     file = WAVECAR
+     spin = down     band = 145     file = WAVECAR
+     spin = down     band = 146     file = WAVECAR
+     spin = down     band = 147     file = WAVECAR
+     spin = down     band = 148     file = WAVECAR
+     spin = down     band = 149     file = WAVECAR
+     spin = down     band = 150     file = WAVECAR
+     spin = down     band = 151     file = WAVECAR
+     spin = down     band = 152     file = WAVECAR
+     spin = down     band = 153     file = WAVECAR
+     spin = down     band = 154     file = WAVECAR
+     spin = down     band = 155     file = WAVECAR
+     spin = down     band = 156     file = WAVECAR
+     spin = down     band = 157     file = WAVECAR
+     spin = down     band = 158     file = WAVECAR
+     spin = down     band = 159     file = WAVECAR
+     spin = down     band = 160     file = WAVECAR
+     spin = down     band = 161     file = WAVECAR
+     spin = down     band = 162     file = WAVECAR
+     spin = down     band = 163     file = WAVECAR
+     spin = down     band = 164     file = WAVECAR
+     spin = down     band = 165     file = WAVECAR
+     spin = down     band = 166     file = WAVECAR
+     spin = down     band = 167     file = WAVECAR
+     spin = down     band = 168     file = WAVECAR
+     spin = down     band = 169     file = WAVECAR
+     spin = down     band = 170     file = WAVECAR
+     spin = down     band = 171     file = WAVECAR
+     spin = down     band = 172     file = WAVECAR
+     spin = down     band = 173     file = WAVECAR
+     spin = down     band = 174     file = WAVECAR
+     spin = down     band = 175     file = WAVECAR
+     spin = down     band = 176     file = WAVECAR
+     spin = down     band = 177     file = WAVECAR
+     spin = down     band = 178     file = WAVECAR
+     spin = down     band = 179     file = WAVECAR
+     spin = down     band = 180     file = WAVECAR
+     spin = down     band = 181     file = WAVECAR
+     spin = down     band = 182     file = WAVECAR
+     spin = down     band = 183     file = WAVECAR
+     spin = down     band = 184     file = WAVECAR
+     spin = down     band = 185     file = WAVECAR
+     spin = down     band = 186     file = WAVECAR
+     spin = down     band = 187     file = WAVECAR
+     spin = down     band = 188     file = WAVECAR
+     spin = down     band = 189     file = WAVECAR
+
+System Overview:
+  Cell: 
+{   'G1': array([0.36129951, 0.        , 0.        ]),
+    'G2': array([0.        , 0.31289451, 0.        ]),
+    'G3': array([0.        , 0.        , 0.33124154]),
+    'R1': array([17.39051734,  0.        ,  0.        ]),
+    'R2': array([ 0.        , 20.08084199,  0.        ]),
+    'R3': array([ 0.       ,  0.       , 18.9685908]),
+    'ase_cell': Atoms(symbols='C48Si47', pbc=True, cell=[9.2027139664, 10.6263799667, 10.0377988815]),
+    'omega': 6624.1397864198225}
+  FFT Grid: 
+{'N': 42735, 'n1': 33, 'n2': 37, 'n3': 35}
+  
+  
+  Zero Field Splitting Calculation Created...
+  
+  
+    ProcessGrid (square) info:
+    rank -> (irow, icol) mapping:
+    [[0 0]]
+    (irow, icol) -> rank mapping:
+    [[0]]
+    rank  onroot  nrow  ncol  size  irow  icol  is_active  rowcomm_rank  colcomm_rank
+      0    True      1    1    1    0    0    True    0    0
+  
+  Creating I array...
+  
+    DistributedMatrix info: I
+    irow  icol  nrow  ncol  m  mloc  mstart  mend  n  nloc  nstart  nend  val.shape
+      0    0    1    1    380    380    0    380    380    380    0    380     (380, 380, 6)
+    Index map:
+    [[[  0 380 380   0 380 380]]]
+  
+  Memory usage (on process 0):
+    iorb_psir_map 0.00 MB
+    iorb_rhog_map 0.00 MB
+    I          6.61 MB
+  Total memory usage (on process 0): 68.61 MB
+  
+  
+  VaspWavefunctionLoader: loading orbitals into memory... (memory mode: "critical")
+  
+  ........
+  ........
+  ........
+  ........
+  ........
+  ........
+  ........
+  ........
+  ........
+  ........
+  
+  Memory usage (on process 0):
+    iorb_psir_map 247.79 MB
+    iorb_rhog_map 0.00 MB
+    I          6.61 MB
+  Total memory usage (on process 0): 322.67 MB
+  
+  
+  Computing dipole-dipole interaction tensor in G space...
+  
+  
+  Memory usage (on process 0):
+    iorb_psir_map 247.79 MB
+    iorb_rhog_map 0.00 MB
+    ddig       1.96 MB
+    I          6.61 MB
+  Total memory usage (on process 0): 324.63 MB
+  
+  
+  Iterating over pairs...
+  
+  (process 0) 724 pairs (1%) computed in 4.262823s...
+  (process 0) 1448 pairs (2%) computed in 3.962326s...
+  (process 0) 2172 pairs (3%) computed in 3.729788s...
+  (process 0) 2896 pairs (4%) computed in 3.772980s...
+  (process 0) 3620 pairs (5%) computed in 3.726760s...
+  (process 0) 4344 pairs (6%) computed in 4.375262s...
+  (process 0) 5068 pairs (7%) computed in 4.039196s...
+  (process 0) 5792 pairs (8%) computed in 3.742420s...
+  (process 0) 6516 pairs (9%) computed in 3.733525s...
+  (process 0) 7240 pairs (10%) computed in 3.721194s...
+  (process 0) 7964 pairs (11%) computed in 3.723445s...
+  (process 0) 8688 pairs (12%) computed in 3.724409s...
+  (process 0) 9412 pairs (13%) computed in 3.735158s...
+  (process 0) 10136 pairs (14%) computed in 3.714906s...
+  (process 0) 10860 pairs (15%) computed in 3.715182s...
+  (process 0) 11584 pairs (16%) computed in 3.727633s...
+  (process 0) 12308 pairs (17%) computed in 3.724888s...
+  (process 0) 13032 pairs (18%) computed in 3.717862s...
+  (process 0) 13756 pairs (19%) computed in 3.719434s...
+  (process 0) 14480 pairs (20%) computed in 3.723675s...
+  (process 0) 15204 pairs (21%) computed in 3.723540s...
+  (process 0) 15928 pairs (22%) computed in 3.722950s...
+  (process 0) 16652 pairs (23%) computed in 3.745027s...
+  (process 0) 17376 pairs (24%) computed in 3.742775s...
+  (process 0) 18100 pairs (25%) computed in 3.723175s...
+  (process 0) 18824 pairs (26%) computed in 3.723887s...
+  (process 0) 19548 pairs (27%) computed in 3.735921s...
+  (process 0) 20272 pairs (28%) computed in 3.714116s...
+  (process 0) 20996 pairs (29%) computed in 3.719867s...
+  (process 0) 21720 pairs (30%) computed in 3.709559s...
+  (process 0) 22444 pairs (31%) computed in 3.717055s...
+  (process 0) 23168 pairs (32%) computed in 3.897697s...
+  (process 0) 23892 pairs (33%) computed in 3.719289s...
+  (process 0) 24616 pairs (34%) computed in 3.715400s...
+  (process 0) 25340 pairs (35%) computed in 3.734614s...
+  (process 0) 26064 pairs (36%) computed in 3.718248s...
+  (process 0) 26788 pairs (37%) computed in 3.721209s...
+  (process 0) 27512 pairs (38%) computed in 3.726144s...
+  (process 0) 28236 pairs (39%) computed in 3.718591s...
+  (process 0) 28960 pairs (40%) computed in 3.725179s...
+  (process 0) 29684 pairs (41%) computed in 3.714212s...
+  (process 0) 30408 pairs (42%) computed in 3.719340s...
+  (process 0) 31132 pairs (43%) computed in 3.875622s...
+  (process 0) 31856 pairs (44%) computed in 3.818711s...
+  (process 0) 32580 pairs (45%) computed in 3.908480s...
+  (process 0) 33304 pairs (46%) computed in 3.927102s...
+  (process 0) 34028 pairs (47%) computed in 3.880791s...
+  (process 0) 34752 pairs (48%) computed in 3.851993s...
+  (process 0) 35476 pairs (49%) computed in 3.798885s...
+  (process 0) 36200 pairs (50%) computed in 3.867892s...
+  (process 0) 36924 pairs (51%) computed in 3.884164s...
+  (process 0) 37648 pairs (52%) computed in 3.955505s...
+  (process 0) 38372 pairs (53%) computed in 3.921363s...
+  (process 0) 39096 pairs (54%) computed in 3.898291s...
+  (process 0) 39820 pairs (55%) computed in 3.902793s...
+  (process 0) 40544 pairs (56%) computed in 3.841601s...
+  (process 0) 41268 pairs (57%) computed in 3.889769s...
+  (process 0) 41992 pairs (58%) computed in 3.749459s...
+  (process 0) 42716 pairs (59%) computed in 3.734922s...
+  (process 0) 43440 pairs (60%) computed in 3.723991s...
+  (process 0) 44164 pairs (61%) computed in 3.839979s...
+  (process 0) 44888 pairs (62%) computed in 3.852237s...
+  (process 0) 45612 pairs (63%) computed in 3.913509s...
+  (process 0) 46336 pairs (64%) computed in 4.018169s...
+  (process 0) 47060 pairs (65%) computed in 3.848612s...
+  (process 0) 47784 pairs (66%) computed in 4.027118s...
+  (process 0) 48508 pairs (67%) computed in 3.821193s...
+  (process 0) 49232 pairs (68%) computed in 4.011191s...
+  (process 0) 49956 pairs (69%) computed in 3.854643s...
+  (process 0) 50680 pairs (70%) computed in 3.731112s...
+  (process 0) 51404 pairs (71%) computed in 3.737813s...
+  (process 0) 52128 pairs (72%) computed in 3.713969s...
+  (process 0) 52852 pairs (73%) computed in 3.725550s...
+  (process 0) 53576 pairs (74%) computed in 3.723987s...
+  (process 0) 54300 pairs (75%) computed in 3.842539s...
+  (process 0) 55024 pairs (76%) computed in 3.905807s...
+  (process 0) 55748 pairs (77%) computed in 5.917060s...
+  (process 0) 56472 pairs (78%) computed in 3.987444s...
+  (process 0) 57196 pairs (79%) computed in 3.979664s...
+  (process 0) 57920 pairs (80%) computed in 3.772452s...
+  (process 0) 58644 pairs (81%) computed in 3.855870s...
+  (process 0) 59368 pairs (82%) computed in 3.734875s...
+  (process 0) 60092 pairs (83%) computed in 3.731458s...
+  (process 0) 60816 pairs (84%) computed in 3.720308s...
+  (process 0) 61540 pairs (85%) computed in 3.706809s...
+  (process 0) 62264 pairs (86%) computed in 3.710457s...
+  (process 0) 62988 pairs (87%) computed in 3.769017s...
+  (process 0) 63712 pairs (88%) computed in 3.771218s...
+  (process 0) 64436 pairs (89%) computed in 3.853148s...
+  (process 0) 65160 pairs (90%) computed in 3.823653s...
+  (process 0) 65884 pairs (91%) computed in 3.819952s...
+  (process 0) 66608 pairs (92%) computed in 3.930117s...
+  (process 0) 67332 pairs (93%) computed in 3.817208s...
+  (process 0) 68056 pairs (94%) computed in 3.712333s...
+  (process 0) 68780 pairs (95%) computed in 3.700834s...
+  (process 0) 69504 pairs (96%) computed in 3.687831s...
+  (process 0) 70228 pairs (97%) computed in 3.693559s...
+  (process 0) 70952 pairs (98%) computed in 3.675814s...
+  (process 0) 71676 pairs (99%) computed in 3.654738s...
+  
+  
+  Total D tensor (MHz): 
+  [[ 2136.83225015 -1921.09439882  1340.74827929]
+   [-1921.09439882  -688.37524525  -986.48387808]
+   [ 1340.74827929  -986.48387808 -1448.4570049 ]]
+  D eigenvalues (MHz): 
+  [ 3639.92882   -1514.1559118 -2125.7729082]
+  D eigenvectors: 
+  [ 0.84165438 -0.44371401  0.30779179]
+  [-0.53990581 -0.70296214  0.4629751 ]
+  [-0.01093744  0.55584359  0.83121494]
+  Dx, Dy, Dz (|Dz| > |Dx| > |Dy|) (MHz): 
+   -2125.7729081998646 -1514.1559118042287 3639.9288200041015
+  Scalar D = 5459.89 MHz, E = -305.81 MHz
+  
+  Memory usage (on process 0):
+    iorb_psir_map 247.79 MB
+    iorb_rhog_map 0.00 MB
+    ddig       1.96 MB
+    I          6.61 MB
+    Iglobal    6.61 MB
+  Total memory usage (on process 0): 352.64 MB
+  
+  Time elapsed for pair iteration: 384s

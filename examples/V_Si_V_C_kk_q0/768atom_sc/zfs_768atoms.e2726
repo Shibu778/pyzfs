@@ -1,0 +1,678 @@
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    wfcloader = VaspWavefunctionLoader()
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+Traceback (most recent call last):
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 286, in new_generator
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    raise ex
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 281, in new_generator
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+Traceback (most recent call last):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/bin/pyzfs", line 33, in <module>
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    for result in generator(*args, **kwargs):
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 793, in _iread
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    sys.exit(load_entry_point('pyzfs', 'console_scripts', 'pyzfs')())
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/run.py", line 111, in main
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    fd = open_with_compression(filename, mode)
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 551, in open_with_compression
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    wfcloader = VaspWavefunctionLoader()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/baseloader.py", line 19, in __init__
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    return open(filename, mode)
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    raise ex2
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    self.scan()
+  File "/localscratch/shibuM/Code/code_development/ext_lib/pyzfs/pyzfs/common/wfc/vasploader.py", line 23, in scan
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    ase_cell = read("POSCAR")
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/io/formats.py", line 736, in read
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    raise ex2
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    return next(_iread(filename, slice(index, None), format, io,
+  File "/localscratch/shibuM/anaconda3/envs/pyzfs/lib/python3.9/site-packages/ase/parallel.py", line 291, in new_generator
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
+    raise ex2
+FileNotFoundError: [Errno 2] No such file or directory: 'POSCAR'
