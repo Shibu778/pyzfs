@@ -41,7 +41,7 @@ class DistributedMatrixTest(TestCase):
         n = mpisync(randint)(1, 500)
         p = mpisync(randint)(1, 4)
         q = mpisync(randint)(1, 4)
-        dtype = mpisync(choice)([np.int_, np.float_, np.complex])
+        dtype = mpisync(choice)([np.int_, np.float64, np.complex])
         print("m = {}, n = {}, p = {}, q = {}, dtype = {}".format(
             m, n, p, q, dtype
         ))
